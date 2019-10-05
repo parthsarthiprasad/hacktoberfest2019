@@ -1,9 +1,14 @@
-// LANGUAGE: c++
-// AUTHOR: parth sarthi prasad
-// GITHUB: https://github.com/AliceWonderland
+/*
+Lang: C++ 14
+env:    
+aut:    parthsarthiprasad
+github: https://github.com/parthsarthiprasad
+*/
+
 #include<iostream>
 using namespace std;
-int main() {
-    cout<<" hello world this is parth sarthi prasad" ;
-    return 0;
+int main()
+{
+  cout<<" Hello World ";
+  return 0;
 }
